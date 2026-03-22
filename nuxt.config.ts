@@ -22,6 +22,14 @@ export default defineNuxtConfig({
       title: 'Pancakes',
       link: [
         { rel: 'icon', type: 'image/x-icon', href: '/favicon.png' },
+      ],
+      meta: [
+        { name: 'description', content: 'Pancakes is a collection of small, focused apps born from curiosity.' },
+        { property: 'og:title', content: 'Pancakes' },
+        { property: 'og:description', content: 'Pancakes is a collection of small, focused apps born from curiosity.' },
+        { property: 'og:image', content: 'https://usepancakes.com/og-image.png' },
+        { property: 'og:url', content: 'https://usepancakes.com' },
+        { property: 'og:type', content: 'website' },
       ]
     }
   }
