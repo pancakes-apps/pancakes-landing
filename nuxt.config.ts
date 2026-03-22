@@ -13,12 +13,6 @@ export default defineNuxtConfig({
     ],  
   },
   runtimeConfig: {
-    rubyApiBaseUrl: '',
-    openAiApiKey: '',
-    opusApiKey: '',
-    neonApiKey: '',
-    qdrantApiKey: '',
-
     public: {
       publicApiBase: 'http://localhost:3000',
     }
