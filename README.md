@@ -1,75 +1,25 @@
-# Nuxt Minimal Starter
+<div align="center">
+<img src="public/favicon.png" width="80"/>
+<h1>Pancakes</h1>
+<p>A home for small, curiosity-driven apps — each one started as an idea worth exploring and ended up worth sharing.</p>
+</div>
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This repo is the landing page for [usepancakes.com](https://usepancakes.com).
 
-## Setup
+---
 
-Make sure to install dependencies:
+**Stack:** Nuxt 4 · Vue 3 · Tailwind CSS 4
+
+---
+
+## Run locally
 
 ```bash
-# npm
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
 npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
 npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
 ```
 
-Locally preview production build:
+---
 
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+© 2026 Pancakes
