@@ -2,20 +2,23 @@
     <div class="max-w-2xl space-y-8 mx-auto">
         <div class="space-y-3">
             <h1 class="font-bold text-4xl">Privacy Policy</h1>
-            <p class="text-sm text-neutral-500">Effective Date: May 9, 2026 &nbsp;·&nbsp; Last Updated: May 9, 2026</p>
+            <p class="text-sm text-neutral-500">Effective Date: May 11, 2026 &nbsp;·&nbsp; Last Updated: May 11, 2026</p>
         </div>
 
         <p class="leading-relaxed">This Privacy Policy applies to the Pancakes website at <a href="https://usepancakes.com" class="underline underline-offset-2">usepancakes.com</a>, operated by Pancakes ("we," "us," or "our").</p>
 
         <div class="space-y-4">
             <h2 class="font-bold text-xl">1. What We Collect</h2>
-            <p class="leading-relaxed">We do not collect any personal data on this website. There are no account registrations, contact forms, newsletter signups, or payment flows on usepancakes.com.</p>
+            <p class="leading-relaxed">We do not collect personal data through any forms or interactions on this website. There are no account registrations, contact forms, newsletter signups, or payment flows on usepancakes.com.</p>
+            <p class="leading-relaxed">Our hosting and CDN provider (Cloudflare) automatically logs standard server access information — including IP addresses, user agents, and request timestamps — for security and operational purposes. These logs are retained for up to 30 days and are not used to identify, profile, or track individual visitors across the web. For more information, see <a href="https://www.cloudflare.com/privacypolicy/" class="underline underline-offset-2">Cloudflare's privacy policy</a>.</p>
             <p class="leading-relaxed">We do not use any analytics tools, tracking scripts, or advertising cookies.</p>
         </div>
 
         <div class="space-y-4">
             <h2 class="font-bold text-xl">2. Cookies</h2>
-            <p class="leading-relaxed">This website does not use cookies beyond what is technically necessary to serve the page (standard browser behavior). No tracking or profiling cookies are set.</p>
+            <p class="leading-relaxed">We do not set any cookies on this website.</p>
+            <p class="leading-relaxed">Our hosting and CDN provider (Cloudflare) may set strictly necessary cookies for security and bot protection — for example, <span class="font-mono text-sm">__cf_bm</span> — as part of operating the site. These cookies are essential to serving the website securely and do not track visitors across other websites.</p>
+            <p class="leading-relaxed">No analytics, advertising, or profiling cookies are used.</p>
         </div>
 
         <div class="space-y-4">
@@ -25,7 +28,7 @@
 
         <div class="space-y-4">
             <h2 class="font-bold text-xl">4. Children's Privacy</h2>
-            <p class="leading-relaxed">This website does not knowingly collect any information from children under the age of 13.</p>
+            <p class="leading-relaxed">This website does not knowingly collect any information from children under 13, or under 16 if located in the EU/EEA.</p>
         </div>
 
         <div class="space-y-4">
